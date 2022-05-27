@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "0c27462db46444576940aa24690a12cc",
+  "assets/AssetManifest.json": "17a74c868c75e9f1dbd9fed5f6c2ec51",
+"assets/assets/images/bg.jpg": "67e57bcdaa147b42ac23f799a9c7dce5",
 "assets/assets/images/csm_Siteco_Sirius_Stage.jpg": "412efe6214640a17cb9ffe6b762e3f50",
 "assets/assets/images/csm_Siteco_Sport.jpg": "8ca64fae34c18eda9d85f738a4398c73",
 "assets/assets/images/siteco.jpg": "23083e52d41d967f2df5e9c10430798a",
@@ -37,9 +38,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "08369265d96e40cdb870ad69a986a013",
-"/": "08369265d96e40cdb870ad69a986a013",
-"main.dart.js": "38309efd3fde3c02e3774b33772fc167",
+"index.html": "65bbc37d6bb97fc17264cc341edc24cc",
+"/": "65bbc37d6bb97fc17264cc341edc24cc",
+"main.dart.js": "0f609acde069581f9d35839e0d2a77a2",
 "manifest.json": "0de5ef975efecfc3fdf8d5651f2de4a3",
 "version.json": "dd60ada74d50b2b44dc2621921636234"
 };
